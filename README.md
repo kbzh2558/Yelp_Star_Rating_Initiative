@@ -1,5 +1,5 @@
 # 📝⭐  Yelp_Star_Rating_Initiative
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
+![](https://img.shields.io/badge/python-3.10%2B-blue?logo=Python)
 
 ⚡ Data Preprocessing, Clustering, Hypothesis Testing, and Logistic Regression Modelling ⚡
 
