@@ -1,4 +1,4 @@
-# 📝⭐ Logistic Regression Analysis on Yelp Star Ratings
+# 📝⭐  Yelp_Star_Rating_Initiative
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
 
 ⚡ Data Preprocessing, Clustering, Hypothesis Testing, and Logistic Regression Modelling ⚡
