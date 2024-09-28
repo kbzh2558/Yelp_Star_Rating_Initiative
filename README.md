@@ -8,6 +8,7 @@
 
 ## Overview
 Yelp, a leading online platform, connects consumers with local businesses through reviews, ratings, and photos. This study focuses on understanding the factors influencing Yelp's star ratings, and offering strategic recommendations to affiliated businesses. The project examines the impact of various business attributes and customer reviews on star ratings, providing insights to enhance Yelp's business performance. The study employed logistic regression analysis due to its interpretability and ease of coefficient examination, which is essential for generating actionable insights for business owners. 
+![4220c379b9f030a88048935474059c2](https://github.com/user-attachments/assets/e1809a9a-bb9d-4712-b1ca-b555a36ddbda)
 
 ## Repo Structure
 ```
